@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Certificate Verification - IKC </title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Certificate Verification - IKC </h1>
+    <form id="lookupForm">
+      <label for="inputNumber">Enter your ID:</label>
+      <input type="number" id="inputNumber" placeholder="Enter your number" required>
+      <p class="error-message" id="errorMessage"></p>
+    </form>
+    <div id="resultContainer">
+      <h2>Details</h2>
+      <p><strong>Name:</strong> <span id="name"></span></p>
+      <p><strong>Course Name:</strong> <span id="courseName"></span></p>
+      <p><strong>Course Status:</strong> <span id="courseStatus"></span></p>
+      <p><strong>Verified:</strong> <span id="verified"></span></p>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
