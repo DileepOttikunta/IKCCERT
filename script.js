@@ -44,7 +44,7 @@ const users = [
      {
         id: 82407,
         name: "G Manasa",
-        courseName: "Core Java",
+        courseName: "Core Java , SQL",
         courseStatus: "Completed",
         verified: true,
       },
