@@ -41,6 +41,20 @@ const users = [
         courseStatus: "Completed",
         verified: true,
       },
+     {
+        id: 82407,
+        name: "G Manasa",
+        courseName: "Core Java",
+        courseStatus: "Completed",
+        verified: true,
+      },
+     {
+        id: 82406,
+        name: "G Manasa ",
+        courseName: "Frontend Web Development",
+        courseStatus: "Completed",
+        verified: true,
+      },
   ];
   
   
