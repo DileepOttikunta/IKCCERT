@@ -61,7 +61,13 @@ const users = [
         courseName: "AWS (IAM , EC2 , S3 , Cloud watch )",
         courseStatus: "Completed",
         verified: true,
-      },
+      },{
+        id: 260106,
+        name: "SINGAPATI YASWANTH SAI",
+        courseName: "PYTHON FULLSTACK",
+        courseStatus: "Completed",
+        verified: true,
+     }
   ];
   
   
