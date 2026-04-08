@@ -91,7 +91,7 @@ const users = [
       nameField.textContent = user.name;
       courseNameField.textContent = user.courseName;
       courseStatusField.textContent = user.courseStatus;
-      verifiedField.textContent = user.verified ? "✅ BY IKC Team " : "❌";
+     
       resultContainer.style.display = "block";
       errorMessage.textContent = "";
     } else {
