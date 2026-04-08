@@ -55,6 +55,13 @@ const users = [
         courseStatus: "Completed",
         verified: true,
       },
+     {
+        id: 260101,
+        name: "G Manasa ",
+        courseName: "AWS (IAM , EC2 , S3 , Cloud watch )",
+        courseStatus: "Completed",
+        verified: true,
+      },
   ];
   
   
