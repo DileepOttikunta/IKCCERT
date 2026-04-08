@@ -70,7 +70,7 @@ const users = [
   const nameField = document.getElementById('name');
   const courseNameField = document.getElementById('courseName');
   const courseStatusField = document.getElementById('courseStatus');
-  const verifiedField = document.getElementById('verified');
+ // const verifiedField = document.getElementById('verified');
   const resultContainer = document.getElementById('resultContainer');
   const errorMessage = document.getElementById('errorMessage');
   
