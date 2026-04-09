@@ -163,6 +163,12 @@ const users = [
         courseName: "Python Fullstack",
         courseStatus: "Completed",
         verified: true,
+     }, {
+        id: 263844,
+        name: "L Pavan Kalyan ",
+        courseName: "Python Fullstack",
+        courseStatus: "Completed",
+        verified: true,
      }
   ];
   
