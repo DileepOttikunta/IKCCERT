@@ -149,6 +149,20 @@ const users = [
         courseName: "Java Fullstack",
         courseStatus: "Completed",
         verified: true,
+     },
+    {
+        id: 263479,
+        name: "VALLIVEDU LAHARI",
+        courseName: "Python Fullstack",
+        courseStatus: "Completed",
+        verified: true,
+     },
+    {
+        id: 263512,
+        name: "TALLA MUNIKEERTHI",
+        courseName: "Python Fullstack",
+        courseStatus: "Completed",
+        verified: true,
      }
   ];
   
