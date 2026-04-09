@@ -123,6 +123,32 @@ const users = [
         courseName: "Python Fullstack",
         courseStatus: "Completed",
         verified: true,
+     }, {
+        id: 263106,
+        name: "THATIPATHRI THARUN",
+        courseName: "Python Fullstack",
+        courseStatus: "Completed",
+        verified: true,
+     },{
+        id: 263117,
+        name: "D.G. surya",
+        courseName: "Python Fullstack",
+        courseStatus: "Completed",
+        verified: true,
+     },
+    {
+        id: 263208,
+        name: "K. Nithin ",
+        courseName: "Python Fullstack",
+        courseStatus: "Completed",
+        verified: true,
+     },
+    {
+        id: 263236,
+        name: "Nithin Kuppam ",
+        courseName: "Java Fullstack",
+        courseStatus: "Completed",
+        verified: true,
      }
   ];
   
