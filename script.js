@@ -116,6 +116,13 @@ const users = [
         courseName: "Java Fullstack",
         courseStatus: "Completed",
         verified: true,
+     },
+    {
+        id: 261960,
+        name: "Yaswanth Muniswar Perugu",
+        courseName: "Python Fullstack",
+        courseStatus: "Completed",
+        verified: true,
      }
   ];
   
