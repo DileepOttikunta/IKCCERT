@@ -197,7 +197,7 @@ const users = [
         courseName: "Python Core",
         courseStatus: "Completed",
         verified: true,
-     }.
+     },
     {
         id: 261605,
         name: "Guntumadugu vijitha",
