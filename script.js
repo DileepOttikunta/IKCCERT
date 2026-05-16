@@ -176,6 +176,27 @@ const users = [
         courseName: "Python Core",
         courseStatus: "Completed",
         verified: true,
+     },
+     {
+        id: 261602,
+        name: "P.SIVA DURGA PRASAD",
+        courseName: "Python Core",
+        courseStatus: "Completed",
+        verified: true,
+     },
+     {
+        id: 261603,
+        name: "Gulapalyam Eshwar Prasad",
+        courseName: "Python Core",
+        courseStatus: "Completed",
+        verified: true,
+     },
+     {
+        id: 261604,
+        name: "GOBBURI VISHNU VAMSI",
+        courseName: "Python Core",
+        courseStatus: "Completed",
+        verified: true,
      }
   ];
   
