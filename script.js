@@ -197,7 +197,43 @@ const users = [
         courseName: "Python Core",
         courseStatus: "Completed",
         verified: true,
+     }.
+    {
+        id: 261605,
+        name: "Guntumadugu vijitha",
+        courseName: "Python Core",
+        courseStatus: "Completed",
+        verified: true,
+     },
+    {
+        id: 261606,
+        name: "Vaddempudi Pravallika",
+        courseName: "Python Core",
+        courseStatus: "Completed",
+        verified: true,
+     },
+     {
+        id: 261607,
+        name: "Buchupalli Prathyusha",
+        courseName: "Python Core",
+        courseStatus: "Completed",
+        verified: true,
+     },
+            {
+        id: 261608,
+        name: "Deekshitha Gone",
+        courseName: "Python Core",
+        courseStatus: "Completed",
+        verified: true,
+     },
+            {
+        id: 261609,
+        name: "Narapogu sneha",
+        courseName: "Python Core",
+        courseStatus: "Completed",
+        verified: true,
      }
+            
   ];
   
   
