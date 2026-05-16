@@ -169,6 +169,13 @@ const users = [
         courseName: "Java Fullstack",
         courseStatus: "Completed",
         verified: true,
+     },
+     {
+        id: 261601,
+        name: "GINNI SHARMILA",
+        courseName: "Python Core",
+        courseStatus: "Completed",
+        verified: true,
      }
   ];
   
