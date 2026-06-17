@@ -232,6 +232,18 @@ const users = [
         courseName: "Python Core",
         courseStatus: "Completed",
         verified: true,
+     },    {
+        id: 260617,
+        name: "K HemanthReddy",
+        courseName: "Core Java",
+        courseStatus: "Completed",
+        verified: true,
+     },  {
+        id: 260618,
+        name: "P.Rachana Shree",
+        courseName: "Core Java",
+        courseStatus: "Completed",
+        verified: true,
      }
             
   ];
