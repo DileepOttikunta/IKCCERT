@@ -244,6 +244,12 @@ const users = [
         courseName: "Core Java",
         courseStatus: "Completed",
         verified: true,
+     },  {
+        id: 262406,
+        name: "Ganithala Praneeth",
+        courseName: "MERN STACK",
+        courseStatus: "Completed",
+        verified: true,
      }
             
   ];
