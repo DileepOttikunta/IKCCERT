@@ -250,6 +250,12 @@ const users = [
         courseName: "MERN STACK",
         courseStatus: "Completed",
         verified: true,
+     }, {
+        id: 261007,
+        name: "T.Bhargavi",
+        courseName: "Frontend Web Developement (HTML , CSS)",
+        courseStatus: "Completed",
+        verified: true,
      }
             
   ];
